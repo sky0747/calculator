@@ -13,3 +13,7 @@ h1{color:grey;}
    margin: auto;
 }
 
+#interestRezult {
+      text-align: left;
+      font-style: italic;
+}
