@@ -39,8 +39,5 @@ function compute() {
     result.innerHTML = interest;
     var resultText = document.getElementById("interestRezult");
     resultText.innerHTML = "If you deposit" + " " + principal1 + "<br> at an interest rate of" + " " + rate1 + "<br>" + "You will receive an amount of" + " " + interest + "<br>" + "In the Year" + " " + futureYears.innerHTML;
-
-    alert(resultText.innerHTML);
-
 }
 
